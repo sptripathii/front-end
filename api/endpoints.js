@@ -23,6 +23,6 @@
     addressUrl:    util.format("http://user%s/addresses", domain),
     cardsUrl:      util.format("http://user%s/cards", domain),
     loginUrl:      util.format("http://user%s/login", domain),
-    registerUrl:   util.format("http://user%s/register", domain),
+    registerUrl:   util.format("http://user%s/register", domain), 
   };
 }());
